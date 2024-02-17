@@ -27,7 +27,7 @@ python main.py
 ---
 <h2>🚨 Modules</h2>
 
-1. Make deposit/withdraw with official bridge
+1. Make dep/withdraw with official bridge
 
 2. Make deposit/withdraw with Orbiter bridge
 
